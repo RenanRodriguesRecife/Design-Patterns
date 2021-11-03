@@ -1,4 +1,7 @@
+/*Importar Fontes*/
 @import url();
+
+/*Variáveis de Cores*/
 :root {
   --first-color: ;
   --text-color: ;
@@ -6,7 +9,7 @@
   --white-color: ;
   --icon-color: ;
 }
-
+/*Variáveis de tamanho de Fontes*/
 :root {
   --body-font: sens-serif;
   --big-font-size: 3rem;
@@ -31,6 +34,8 @@
   --z-modal: 1000;
 }
 
+
+/*RESET DO HTML*/
 *, ::before, ::after {
   box-sizing: border-box;
 }
