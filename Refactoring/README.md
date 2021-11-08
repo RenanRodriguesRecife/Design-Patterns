@@ -18,6 +18,23 @@ Os métodos devem ser quebrados em métodos menores (não é bom ser maiores que
 -> Declarações condicionais complexas
 Dificulta a sua capacidade de entender o sistema e de reusa-lo
 
+Orientação a Objetos
+
+-> Obsessão com Primitivas (JAVA)
+
+Usar variáveis primitivas você foge do propósito da orientação a objetos
+
+-> Exposição Indecentes
+
+Métodos, variáveis e classes que estão visíveis quando deveriam ser privadas
+
+-> Solução espalhada
+
+Quando um código é feito para solucionar um problema está espalhado em várias classes.
+
+-> Classes alternativas com interfaces diferentes
+
+Interfaces de classes diferentes são diferentes mas a classe em si não são diferentes. Nesse caso é melhor refatorar as duas interfaces diferentes em uma só.
 
 
 
