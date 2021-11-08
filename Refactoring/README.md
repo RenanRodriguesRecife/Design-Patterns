@@ -12,6 +12,7 @@ Bad Smells:
 -> Códigos Duplicados
 
 -> Métodos longos
+
 Os métodos devem ser quebrados em métodos menores (não é bom ser maiores que 10 linhas o ideal é ter no máximo 5 linhas de código)
 
 -> Declarações condicionais complexas
