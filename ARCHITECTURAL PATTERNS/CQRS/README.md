@@ -5,10 +5,6 @@ Problema:
 Você precisa gravar informações em um banco de dados mas ele trava porque tem muita consulta sendo executada
 
 
-MVP
-MVC
-MVVM
-
 
 
 
