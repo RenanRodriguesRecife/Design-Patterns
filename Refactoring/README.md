@@ -1,33 +1,34 @@
-Refatoração 
+# Refatoração 
 
 O código deve ser fácil de entender e fácil de extender
 
 Códigos fáceis de entender se gasta menos tempo consertando bugs 
 
-Bad Smells:
+### Bad Smells:
 - Pouco Claro
 - Complicado
 - Duplicado
 
--> Códigos Duplicados
+### Códigos Duplicados
 
--> Métodos longos
+### Métodos longos
 
 Os métodos devem ser quebrados em métodos menores (não é bom ser maiores que 10 linhas o ideal é ter no máximo 5 linhas de código)
 
--> Declarações condicionais complexas
+### Declarações condicionais complexas
+
 Dificulta a sua capacidade de entender o sistema e de reusa-lo
 
--> IF/Else e Switch devem ser eliminados
+### IF/Else e Switch devem ser eliminados
+
 Se eles deixam seu sistema restrito devem ser eliminados usando Polimorfismo de objetos (ou funções se você estiver no JavaScript)
 
--> Soluções Excêntricas 
+### Soluções Excêntricas 
 
-Solucionar o mesmo problema em muitas maneiras diferentes.
-(Só deve escolher a melhor única solução)
+Solucionar o mesmo problema em muitas maneiras diferentes. (Só se deve escolher a melhor única solução)
 
 
--- Orientação a Objetos --
+# Orientação a Objetos
 
 -> Obsessão com Primitivas (JAVA)
 
