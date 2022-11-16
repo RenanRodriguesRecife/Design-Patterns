@@ -1,25 +1,25 @@
 - [ ] - Padrões Criacionais
   - [ ] - Factory Method
-  - [ ] - Abstract Factory
+  - [x] - Abstract Factory
   - [ ] - Builder
   - [ ] - Prototype
-  - [ ] - Singleton
+  - [x] - Singleton
   
 - [ ] - Padrões Estruturais
   - [ ] - Adapter
-  - [ ] - Bridge
+  - [x] - Bridge
   - [ ] - Composite
   - [ ] - Decorator
-  - [ ] - Facade
-  - [ ] - Flyweight
-  - [ ] - Proxy
+  - [x] - Facade
+  - [x] - Flyweight
+  - [x] - Proxy
   
 - [ ] - Padrões Comportamentais
   - [ ] - Chain of Responsibility
   - [ ] - Command
-  - [ ] - Iterator
+  - [x] - Iterator
   - [ ] - Mediator
-  - [ ] - Memento
+  - [x] - Memento
   - [ ] - Observer
   - [ ] - State
   - [ ] - Strategy
